@@ -1,0 +1,11 @@
+{
+  "name": "jest-unitary-test-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/horhorou/jest-unitary-test-101.git",
+  "author": "horhorou <68734155+horhorou@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
